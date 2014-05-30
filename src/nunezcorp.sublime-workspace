@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"c",
+				"disc"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"border",
+				"border-bottom-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"de",
+				"degradado	degradado"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"paddig",
+				"padding-left"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"sp",
+				"word-spacing"
+			],
+			[
+				"sl",
+				"slSeccion"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"backgron",
+				"background-position"
+			],
+			[
+				"pad",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/nunezcorp/css/style.css",
+			"settings":
+			{
+				"buffer_size": 12223,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/nunezcorp/index.html",
+			"settings":
+			{
+				"buffer_size": 6045,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/nunezcorp/index.js",
+			"settings":
+			{
+				"buffer_size": 1178,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/nunezcorp/contacto.js",
+			"settings":
+			{
+				"buffer_size": 2176,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/nunezcorp/servicios.js",
+			"settings":
+			{
+				"buffer_size": 1133,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/nunezcorp/quienes.js",
+			"settings":
+			{
+				"buffer_size": 1020,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/nunezcorp/quienes.html",
+			"settings":
+			{
+				"buffer_size": 5828,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/nunezcorp/contacto.js",
+		"/C/xampp/htdocs/nunezcorp/contacto.html",
+		"/C/xampp/htdocs/nunezcorp/js/jquery.cycle2.min.js",
+		"/C/xampp/htdocs/security_fb/fbconection/request/notifications/index.js",
+		"/C/xampp/htdocs/security_fb/test/programas.js",
+		"/C/xampp/htdocs/maquinariacampa/admin/imagenes.js",
+		"/C/xampp/htdocs/nunezcorp/servicios.html",
+		"/C/xampp/htdocs/nunezcorp/quienes.js",
+		"/C/xampp/htdocs/nunezcorp/quienes.html",
+		"/C/xampp/htdocs/nunezcorp/index.html",
+		"/C/xampp/htdocs/nunezcorp/index.js",
+		"/C/xampp/htdocs/resumen/index.js",
+		"/C/xampp/htdocs/nunezcorp/mensaje.php",
+		"/C/xampp/htdocs/nunezcorp/css/style.css",
+		"/C/xampp/htdocs/genteynegocios/index.php",
+		"/C/xampp/htdocs/security_fb/message_me.php",
+		"/C/xampp/htdocs/security/message_me.php",
+		"/C/xampp/htdocs/security/message_g.php",
+		"/C/xampp/htdocs/security/message_hm.php",
+		"/C/xampp/htdocs/nunezcorp/servicios.js",
+		"/C/xampp/htdocs/testosterone/mensaje.php",
+		"/C/xampp/htdocs/genteynegocios/colaboradores.js",
+		"/C/xampp/htdocs/genteynegocios/colaboradores.php",
+		"/C/xampp/htdocs/testosterone/contacto.php",
+		"/C/xampp/htdocs/nunezcorp/js/jquery.bxslider.min.js",
+		"/C/xampp/htdocs/testosterone/index.js",
+		"/C/xampp/htdocs/testosterone/menu.php",
+		"/C/xampp/htdocs/testosterone/contacto.js",
+		"/C/xampp/htdocs/testosterone/css/contacto.css",
+		"/C/xampp/htdocs/genteynegocios/contacto.php",
+		"/C/xampp/htdocs/testosterone/admin/revista.php",
+		"/C/xampp/htdocs/testosterone/css/style.css",
+		"/C/xampp/htdocs/testosterone/admin/noticia.php",
+		"/C/xampp/htdocs/testosterone/admin/revistas.php",
+		"/C/xampp/htdocs/genteynegocios/ediciones.php",
+		"/C/xampp/htdocs/testosterone/css/ediciones.css",
+		"/C/xampp/htdocs/genteynegocios/noticias.php",
+		"/C/xampp/htdocs/testosterone/admin/login.php",
+		"/C/xampp/htdocs/genteynegocios/css/noticias.css",
+		"/C/xampp/htdocs/testosterone/admin/noticias.php",
+		"/C/xampp/htdocs/testosterone/noticia.php",
+		"/C/xampp/htdocs/genteynegocios/noticia.php",
+		"/C/xampp/htdocs/testosterone/php/conexion.php",
+		"/C/xampp/htdocs/testosterone/admin/anuncios_inferior.php",
+		"/C/xampp/htdocs/testosterone/admin/anuncios_inferior.js",
+		"/C/xampp/htdocs/testosterone/admin/anuncio_inferior.php",
+		"/C/xampp/htdocs/testosterone/admin/anuncio_inferior.js",
+		"/C/xampp/htdocs/testosterone/admin/anuncio_superior.php",
+		"/C/xampp/htdocs/testosterone/admin/anuncios.php",
+		"/C/xampp/htdocs/testosterone/admin/menu.php",
+		"/C/xampp/htdocs/testosterone/admin/slider.php",
+		"/C/xampp/htdocs/testosterone/admin/sliders.php",
+		"/C/xampp/htdocs/testosterone/admin/anuncios_superior.php",
+		"/C/xampp/htdocs/genteynegocios/admin/anuncios_superior.php",
+		"/C/xampp/htdocs/genteynegocios/admin/anuncios.js",
+		"/C/xampp/htdocs/genteynegocios/admin/anuncios.php",
+		"/C/xampp/htdocs/testosterone/admin/anuncio.php",
+		"/C/xampp/htdocs/maquinariamx/admin/login.php",
+		"/C/Users/MXRKO/Desktop/index.html",
+		"/C/xampp/htdocs/testosterone/src/webfontkit-20140310-010327/stylesheet.css",
+		"/C/xampp/htdocs/preloadpage-source/CSS3-Loading-Animation/index.html",
+		"/C/xampp/htdocs/pace-0.4.17/pace.js",
+		"/C/xampp/htdocs/pace-0.4.17/pace.coffee",
+		"/C/xampp/htdocs/pace-0.4.17/pace.min.js",
+		"/C/xampp/htdocs/pace-0.4.17/tests/demo.html",
+		"/C/xampp/htdocs/pace-0.4.17/docs/welcome/index.html",
+		"/D/Programas/OPUS CMS/C R A C K/Licencia DNG de Opus.dng",
+		"/C/xampp/htdocs/tarea_pagina_web.html",
+		"/G/Desarrollo/localhost/genteynegocios/css/contacto.css",
+		"/C/Users/MXRKO/AppData/Roaming/Sublime Text 2/Packages/User/css-esquinas-redondeadas.sublime-snippet",
+		"/C/Users/MXRKO/AppData/Roaming/Sublime Text 2/Packages/User/css-degradado.sublime-snippet",
+		"/C/Users/MXRKO/AppData/Roaming/Sublime Text 2/Packages/User/css-responsivo.sublime-snippet",
+		"/G/Desarrollo/localhost/genteynegocios/css/styles.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"animate",
+			"ancho-base",
+			"e",
+			"portadas",
+			"twitter",
+			"witter",
+			"noticias",
+			"limpiar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/nunezcorp/css/style.css",
+					"settings":
+					{
+						"buffer_size": 12223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11434,
+								11434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9086.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/nunezcorp/index.html",
+					"settings":
+					{
+						"buffer_size": 6045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5832,
+								5901
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1401.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/nunezcorp/index.js",
+					"settings":
+					{
+						"buffer_size": 1178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								1174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 112.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/nunezcorp/contacto.js",
+					"settings":
+					{
+						"buffer_size": 2176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1187,
+								2172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 471.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/nunezcorp/servicios.js",
+					"settings":
+					{
+						"buffer_size": 1133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1129,
+								1129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/nunezcorp/quienes.js",
+					"settings":
+					{
+						"buffer_size": 1020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1016,
+								1016
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/nunezcorp/quienes.html",
+					"settings":
+					{
+						"buffer_size": 5828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4461,
+								4461
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1191.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/xampp/htdocs/efectosustentable/src/efectosustentable.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true
+}
